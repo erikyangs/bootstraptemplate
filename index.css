@@ -102,3 +102,25 @@ body {
 
 	font-size: 16px;
 }
+
+@media (max-width: 991px){
+	#landing-subtitle{
+		font-size: 20px;
+	}
+
+	#landing-title{
+		font-size: 40px;
+	}
+}
+
+@media (max-width: 767px){
+	#landing-subtitle{
+		font-size: 15px;
+	}
+
+	#landing-title{
+		font-size: 25px;
+	}
+}
+
+
